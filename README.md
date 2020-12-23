@@ -1,1 +1,5 @@
 # proyectoBatataBit 🥔
+
+## Pasos:
+## Tecnologías:
+## Estado:

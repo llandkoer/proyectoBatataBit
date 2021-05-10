@@ -1,15 +1,16 @@
-# proyectoBatataBit 🥔
+# Batatabit 🥔
 
-Este es un proyecto en el cual creé la maquetación del frontend de una landing page partiendo de su wireframe. Analicé su arquitectura y construí en código cada una de sus partes para que este se adapte a cualquier dispositivo de los usuarios (teléfono celular, tablet o computador).
+![Logo](https://i.imgur.com/hWFsvrm.png)
 
-Mi objetivo con este proyecto fue aprender a crear y aplicar estilos con CSS que se puedan reutilizar, aprender a aplicar media queries de manera eficiente para adaptar vistas de dispositivos y aprender a realizar una auditoría con Lighthouse.
+Batatabit helps you navigate between different cryptocurrency prices and trends. Compatibility with multiple browsers and devices.
 
-## Tecnologías:
-- Pug
-- HTML
-- Sass (scss)
-- CSS
-- Git
+## Built With
 
-## Estado:
-Terminado, pero con oportunidades de añadir mejoras con conocimientos que vaya adquiriendo en el futuro.
+* HTML - Hypertext Markup Language
+* CSS - Cascading Style Sheets
+* [Sass](https://sass-lang.com/) - CSS preprocessor
+* [Pug](https://pugjs.org/api/getting-started.html) - Template engine
+
+## Author
+
+* **Luis Landkoer** - [llandkoer](https://github.com/llandkoer)
